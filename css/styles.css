@@ -11,10 +11,6 @@ h1.index {
     font-style: normal;
 }
 
-
-main {
-    padding: 20px;
-}
 main.container-fluid {
     width: 90%;
 }
@@ -34,10 +30,6 @@ nav {
 
 button.navbar-toggler{
 margin-right: 10px;
-}
-
-.home_2col {
-    margin-bottom: 20px;
 }
 
 img.dibley {
