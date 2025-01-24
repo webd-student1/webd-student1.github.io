@@ -1,4 +1,4 @@
-# This is dog's pages. Welcome! 
+# Welcome to my live pages all about dogs!  
 A live Pages view of the doggo's site. 
 
 https://webd-student1.github.io/
